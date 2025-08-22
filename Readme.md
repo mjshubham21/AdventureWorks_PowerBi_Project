@@ -41,9 +41,9 @@ The dashboard provides actionable insights into **revenue trends, order performa
 
 ## 📸 Screenshots
 
-- [Dashboard 1](https://github.com/mjshubham21/AdventureWorks_PowerBi_Project/blob/main/images/Dashboard.png)  
-- [Dashboard 2](https://github.com/mjshubham21/AdventureWorks_PowerBi_Project/blob/main/images/map.png)  
-- [Dashboard 3](https://github.com/mjshubham21/AdventureWorks_PowerBi_Project/blob/main/images/Schema.png)   
+![Dashboard 1](https://raw.githubusercontent.com/mjshubham21/AdventureWorks_PowerBi_Project/main/images/Dashboard.png)  
+![Dashboard 2](https://raw.githubusercontent.com/mjshubham21/AdventureWorks_PowerBi_Project/main/images/map.png)  
+![Dashboard 3](https://raw.githubusercontent.com/mjshubham21/AdventureWorks_PowerBi_Project/main/images/Schema.png)    
 
 ---
 
